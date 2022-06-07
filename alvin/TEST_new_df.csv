@@ -3050,7 +3050,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 2,2021-01-23,Buffalo Beauts,Connecticut Whale,3,14:38,5,4,0,1,Buffalo Beauts,Brooke Stacey,Play,164,1,Direct,,,,Kristin Lewicki,194.0,18.0,0,0,0,0,0,0,1,0,0,0,0
 2,2021-01-23,Buffalo Beauts,Connecticut Whale,3,14:36,5,4,0,1,Buffalo Beauts,Kristin Lewicki,Play,189,10,Direct,,,,Marie-Jo Pelletier,130.0,5.0,0,0,0,0,0,0,1,0,0,0,0
 2,2021-01-23,Buffalo Beauts,Connecticut Whale,3,14:34,5,4,0,1,Buffalo Beauts,Marie-Jo Pelletier,Play,130,5,Direct,,,,Alyson Matteau,148.0,65.0,0,0,0,0,0,0,1,0,0,0,0
-2,2021-01-23,Buffalo Beauts,Connecticut Whale,3,14:33,5,4,0,1,Buffalo Beauts,Alyson Matteau,Play,148,65,Direct,,,,Kristin Lewicki,165.0,20.0,1,0,0,0,0,0,1,0,0,0,0
+2,2021-01-23,Buffalo Beauts,Connecticut Whale,3,14:33,5,4,0,1,Buffalo Beauts,Alyson Matteau,Play,148,65,Direct,,,,Kristin Lewicki,165.0,20.0,1,0,0,0,0,1,1,0,0,0,0
 2,2021-01-23,Buffalo Beauts,Connecticut Whale,3,14:32,5,4,0,1,Buffalo Beauts,Kristin Lewicki,Goal,168,28,Wristshot,On Net,t,f,,,,0,0,0,1,0,0,0,0,0,0,0
 2,2021-01-23,Buffalo Beauts,Connecticut Whale,3,14:31,5,5,1,1,Connecticut Whale,Sarah Schwenzfeier,Faceoff Win,100,43,Backhand,,,,Jordan Juron,,,0,0,1,0,0,0,0,0,0,0,0
 2,2021-01-23,Buffalo Beauts,Connecticut Whale,3,14:28,5,5,1,1,Connecticut Whale,Shannon Doyle,Puck Recovery,83,60,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -6095,7 +6095,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 4,2021-01-24,Boston Pride,Buffalo Beauts,2,15:30,5,3,2,1,Boston Pride,McKenna Brand,Play,135,61,Direct,,,,Kaleigh Fratkin,153.0,20.0,0,0,0,0,0,0,1,0,0,0,0
 4,2021-01-24,Boston Pride,Buffalo Beauts,2,15:29,5,3,2,1,Boston Pride,Kaleigh Fratkin,Shot,153,20,Fan,Missed,t,t,,,,0,0,0,0,0,0,0,0,1,0,0
 4,2021-01-24,Boston Pride,Buffalo Beauts,2,15:28,5,3,2,1,Boston Pride,Lexie Laing,Puck Recovery,186,29,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
-4,2021-01-24,Boston Pride,Buffalo Beauts,2,15:28,5,3,2,1,Boston Pride,Lexie Laing,Play,186,29,Direct,,,,Jillian Dempsey,184.0,46.0,1,0,0,0,0,0,1,0,0,0,0
+4,2021-01-24,Boston Pride,Buffalo Beauts,2,15:28,5,3,2,1,Boston Pride,Lexie Laing,Play,186,29,Direct,,,,Jillian Dempsey,184.0,46.0,1,0,0,0,0,1,1,0,0,0,0
 4,2021-01-24,Boston Pride,Buffalo Beauts,2,15:27,5,3,2,1,Boston Pride,Jillian Dempsey,Goal,184,46,Snapshot,On Net,f,t,,,,0,0,0,1,0,0,0,0,0,0,0
 4,2021-01-24,Boston Pride,Buffalo Beauts,2,15:27,5,4,3,1,Boston Pride,Tereza Vanisova,Faceoff Win,100,43,Backhand,,,,Kayla Meneghin,,,0,0,1,0,0,0,0,0,0,0,0
 4,2021-01-24,Boston Pride,Buffalo Beauts,2,15:24,5,4,3,1,Boston Pride,Lauren Kelly,Puck Recovery,53,28,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -6117,7 +6117,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 4,2021-01-24,Boston Pride,Buffalo Beauts,2,15:01,5,4,3,1,Buffalo Beauts,Alyson Matteau,Play,12,74,Indirect,,,,Marie-Jo Pelletier,2.0,37.0,0,0,0,0,0,0,1,0,0,0,0
 4,2021-01-24,Boston Pride,Buffalo Beauts,2,14:58,5,4,3,1,Buffalo Beauts,Marie-Jo Pelletier,Play,6,18,Direct,,,,Alyson Matteau,1.0,51.0,0,0,0,0,0,0,1,0,0,0,0
 4,2021-01-24,Boston Pride,Buffalo Beauts,2,14:57,5,4,3,1,Buffalo Beauts,Alyson Matteau,Dump In/Out,1,51,Lost,,,,,,,0,1,0,0,0,0,0,0,0,0,0
-4,2021-01-24,Boston Pride,Buffalo Beauts,2,14:55,5,4,3,1,Boston Pride,Samantha Davis,Puck Recovery,184,47,,,,,,,,1,0,0,0,0,0,0,1,0,0,0
+4,2021-01-24,Boston Pride,Buffalo Beauts,2,14:55,5,4,3,1,Boston Pride,Samantha Davis,Puck Recovery,184,47,,,,,,,,1,0,0,0,0,1,0,1,0,0,0
 4,2021-01-24,Boston Pride,Buffalo Beauts,2,14:55,5,4,3,1,Boston Pride,Samantha Davis,Goal,184,47,Snapshot,On Net,f,f,,,,0,0,0,1,0,0,0,0,0,0,0
 4,2021-01-24,Boston Pride,Buffalo Beauts,2,14:55,5,5,4,1,Buffalo Beauts,Cassidy MacPherson,Faceoff Win,100,42,Backhand,,,,Carlee Turner,,,0,0,1,0,0,0,0,0,0,0,0
 4,2021-01-24,Boston Pride,Buffalo Beauts,2,14:55,5,5,4,1,Buffalo Beauts,Autumn MacDougall,Puck Recovery,89,49,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -7949,7 +7949,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 5,2021-01-24,Connecticut Whale,Metropolitan Riveters,2,15:12,4,5,2,2,Metropolitan Riveters,Madison Packer,Play,162,11,Direct,,,,Kate Leary,194.0,21.0,0,0,0,0,0,0,1,0,0,0,0
 5,2021-01-24,Connecticut Whale,Metropolitan Riveters,2,15:07,4,5,2,2,Metropolitan Riveters,Kate Leary,Play,156,19,Direct,,,,Kiira Dosdall,131.0,43.0,0,0,0,0,0,0,1,0,0,0,0
 5,2021-01-24,Connecticut Whale,Metropolitan Riveters,2,15:05,4,5,2,2,Metropolitan Riveters,Kiira Dosdall,Shot,136,48,Wristshot,Missed,t,f,,,,0,0,0,0,0,0,0,0,1,0,0
-5,2021-01-24,Connecticut Whale,Metropolitan Riveters,2,15:05,4,5,2,2,Metropolitan Riveters,Kelly Babstock,Shot,171,46,Deflection,Missed,t,f,,,,1,0,0,0,0,0,0,0,1,0,0
+5,2021-01-24,Connecticut Whale,Metropolitan Riveters,2,15:05,4,5,2,2,Metropolitan Riveters,Kelly Babstock,Shot,171,46,Deflection,Missed,t,f,,,,1,0,0,0,0,1,0,0,1,0,0
 5,2021-01-24,Connecticut Whale,Metropolitan Riveters,2,15:05,4,5,2,2,Metropolitan Riveters,Rebecca Russo,Goal,182,40,Deflection,On Net,f,f,,,,0,0,0,1,0,0,0,0,0,0,0
 5,2021-01-24,Connecticut Whale,Metropolitan Riveters,2,15:03,5,5,2,3,Metropolitan Riveters,Kendall Cornine,Faceoff Win,100,42,Backhand,,,,Emma Vlasic,,,0,0,1,0,0,0,0,0,0,0,0
 5,2021-01-24,Connecticut Whale,Metropolitan Riveters,2,15:00,5,5,2,3,Metropolitan Riveters,Paige Voight,Puck Recovery,108,82,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -9263,7 +9263,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,12:04,5,4,0,0,Toronto Six,Lindsay Eastwood,Puck Recovery,153,7,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,12:01,5,4,0,0,Toronto Six,Lindsay Eastwood,Play,177,6,Direct,,,,Emma Woods,197.0,43.0,0,0,0,0,0,0,1,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,11:59,5,4,0,0,Toronto Six,Emma Woods,Play,196,59,Direct,,,,Shiann Darkangelo,183.0,46.0,0,0,0,0,0,0,1,0,0,0,0
-6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,11:59,5,4,0,0,Toronto Six,Shiann Darkangelo,Play,183,46,Direct,,,,Lindsay Eastwood,179.0,31.0,1,0,0,0,0,0,1,0,0,0,0
+6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,11:59,5,4,0,0,Toronto Six,Shiann Darkangelo,Play,183,46,Direct,,,,Lindsay Eastwood,179.0,31.0,1,0,0,0,0,1,1,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,11:58,5,4,0,0,Toronto Six,Lindsay Eastwood,Goal,179,31,Snapshot,On Net,f,t,,,,0,0,0,1,0,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,11:57,5,5,1,0,Toronto Six,Breanne Wilson-Bennett,Faceoff Win,100,42,Forehand,,,,Stephanie Anderson,,,0,0,1,0,0,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,11:52,5,5,1,0,Toronto Six,Breanne Wilson-Bennett,Faceoff Win,31,20,Backhand,,,,Stephanie Anderson,,,0,0,1,0,0,0,0,0,0,0,0
@@ -9325,7 +9325,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,9:59,4,4,1,0,Minnesota Whitecaps,Sydney Baldwin,Puck Recovery,5,26,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,9:58,4,4,1,0,Minnesota Whitecaps,Sydney Baldwin,Incomplete Play,11,13,Direct,,,,Stephanie Anderson,41.0,5.0,0,0,0,0,1,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,9:56,4,4,1,0,Toronto Six,Amy Curlew,Puck Recovery,163,69,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
-6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,9:56,4,4,1,0,Toronto Six,Amy Curlew,Play,157,64,Direct,,,,Mikyla Grant-Mentis,156.0,50.0,1,0,0,0,0,0,1,0,0,0,0
+6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,9:56,4,4,1,0,Toronto Six,Amy Curlew,Play,157,64,Direct,,,,Mikyla Grant-Mentis,156.0,50.0,1,0,0,0,0,1,1,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,9:55,4,4,1,0,Toronto Six,Mikyla Grant-Mentis,Goal,163,45,Wristshot,On Net,t,f,,,,0,0,0,1,0,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,9:54,4,4,2,0,Minnesota Whitecaps,Sydney Baldwin,Penalty Taken,41,16,Tripping,,,,Amy Curlew,,,0,0,0,0,0,1,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,9:54,4,3,2,0,Minnesota Whitecaps,Jonna Curtis,Faceoff Win,100,43,Backhand,,,,Shiann Darkangelo,,,0,0,1,0,0,0,0,0,0,0,0
@@ -9436,7 +9436,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,5:47,5,4,2,0,Toronto Six,Breanne Wilson-Bennett,Play,171,52,Direct,,,,Brooke Boquist,177.0,54.0,0,0,0,0,0,0,1,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,5:47,5,4,2,0,Toronto Six,Brooke Boquist,Shot,177,54,Wristshot,Blocked,t,f,,,,0,0,0,0,0,0,0,0,1,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,5:46,5,4,2,0,Toronto Six,Shiann Darkangelo,Puck Recovery,174,46,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
-6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,5:46,5,4,2,0,Toronto Six,Shiann Darkangelo,Play,174,46,Direct,,,,Breanne Wilson-Bennett,170.0,45.0,1,0,0,0,0,0,1,0,0,0,0
+6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,5:46,5,4,2,0,Toronto Six,Shiann Darkangelo,Play,174,46,Direct,,,,Breanne Wilson-Bennett,170.0,45.0,1,0,0,0,0,1,1,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,5:45,5,4,2,0,Toronto Six,Breanne Wilson-Bennett,Goal,170,45,Snapshot,On Net,t,t,,,,0,0,0,1,0,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,5:44,5,5,3,0,Toronto Six,Taytum Clairmont,Faceoff Win,100,42,Backhand,,,,Meaghan Pezon,,,0,0,1,0,0,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,5:43,5,5,3,0,Toronto Six,Julie Allen,Puck Recovery,96,44,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -9540,7 +9540,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,2:30,4,5,3,0,Toronto Six,Emma Greco,Puck Recovery,22,54,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,2:30,4,5,3,0,Toronto Six,Emma Greco,Dump In/Out,22,54,Lost,,,,,,,0,1,0,0,0,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,2:27,4,5,3,0,Minnesota Whitecaps,Nina Rodgers,Puck Recovery,157,5,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
-6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,2:27,4,5,3,0,Minnesota Whitecaps,Nina Rodgers,Play,157,5,Direct,,,,Sydney Baldwin,129.0,15.0,1,0,0,0,0,0,1,0,0,0,0
+6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,2:27,4,5,3,0,Minnesota Whitecaps,Nina Rodgers,Play,157,5,Direct,,,,Sydney Baldwin,129.0,15.0,1,0,0,0,0,1,1,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,2:25,4,5,3,0,Minnesota Whitecaps,Sydney Baldwin,Goal,133,16,Wristshot,On Net,t,f,,,,0,0,0,1,0,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,2:24,5,5,3,1,Toronto Six,Breanne Wilson-Bennett,Faceoff Win,100,42,Forehand,,,,Jonna Curtis,,,0,0,1,0,0,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,1,2:23,5,5,3,1,Toronto Six,Taylor Woods,Puck Recovery,82,46,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -9843,7 +9843,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,12:41,4,4,3,1,Toronto Six,Emma Woods,Play,166,4,Indirect,,,,Shiann Darkangelo,191.0,12.0,0,0,0,0,0,0,1,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,12:35,4,4,3,1,Toronto Six,Shiann Darkangelo,Play,195,20,Indirect,,,,Emma Woods,165.0,5.0,0,0,0,0,0,0,1,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,12:33,4,4,3,1,Toronto Six,Emma Woods,Play,152,5,Direct,,,,Sarah Steele,129.0,40.0,0,0,0,0,0,0,1,0,0,0,0
-6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,12:32,4,4,3,1,Toronto Six,Sarah Steele,Shot,129,40,Slapshot,Missed,t,t,,,,1,0,0,0,0,0,0,0,1,0,0
+6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,12:32,4,4,3,1,Toronto Six,Sarah Steele,Shot,129,40,Slapshot,Missed,t,t,,,,1,0,0,0,0,1,0,0,1,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,12:32,4,4,3,1,Toronto Six,Breanne Wilson-Bennett,Goal,180,41,Deflection,On Net,f,f,,,,0,0,0,1,0,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,12:31,4,4,4,1,Minnesota Whitecaps,Jonna Curtis,Faceoff Win,100,42,Forehand,,,,Amy Curlew,,,0,0,1,0,0,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,12:26,4,4,4,1,Minnesota Whitecaps,Maddie Rowe,Puck Recovery,5,29,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -10160,7 +10160,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,1:41,4,4,4,1,Toronto Six,Mikyla Grant-Mentis,Puck Recovery,192,25,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,1:37,4,4,4,1,Toronto Six,Mikyla Grant-Mentis,Play,149,14,Direct,,,,Sarah Steele,155.0,4.0,0,0,0,0,0,0,1,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,1:37,4,4,4,1,Toronto Six,Sarah Steele,Play,155,4,Direct,,,,Brooke Boquist,183.0,10.0,0,0,0,0,0,0,1,0,0,0,0
-6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,1:35,4,4,4,1,Toronto Six,Brooke Boquist,Play,179,17,Direct,,,,Taylor Woods,174.0,48.0,1,0,0,0,0,0,1,0,0,0,0
+6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,1:35,4,4,4,1,Toronto Six,Brooke Boquist,Play,179,17,Direct,,,,Taylor Woods,174.0,48.0,1,0,0,0,0,1,1,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,1:35,4,4,4,1,Toronto Six,Taylor Woods,Goal,183,46,Fan,On Net,f,f,,,,0,0,0,1,0,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,1:32,4,4,5,1,Minnesota Whitecaps,Haylea Schmid,Faceoff Win,100,42,Backhand,,,,Taytum Clairmont,,,0,0,1,0,0,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,2,1:31,4,4,5,1,Minnesota Whitecaps,Rose Alleva,Puck Recovery,88,51,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -10618,7 +10618,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,3,5:47,3,5,5,4,Minnesota Whitecaps,Emma Stauber,Play,130,43,Direct,,,,Maddie Rowe,136.0,67.0,0,0,0,0,0,0,1,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,3,5:44,3,5,5,4,Minnesota Whitecaps,Maddie Rowe,Play,153,62,Direct,,,,Meaghan Pezon,173.0,25.0,0,0,0,0,0,0,1,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,3,5:43,3,5,5,4,Minnesota Whitecaps,Meaghan Pezon,Play,173,25,Direct,,,,Emma Stauber,147.0,27.0,0,0,0,0,0,0,1,0,0,0,0
-6,2021-01-24,Toronto Six,Minnesota Whitecaps,3,5:40,3,5,5,4,Minnesota Whitecaps,Emma Stauber,Play,147,27,Direct,,,,Meaghan Pezon,183.0,22.0,1,0,0,0,0,0,1,0,0,0,0
+6,2021-01-24,Toronto Six,Minnesota Whitecaps,3,5:40,3,5,5,4,Minnesota Whitecaps,Emma Stauber,Play,147,27,Direct,,,,Meaghan Pezon,183.0,22.0,1,0,0,0,0,1,1,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,3,5:39,3,5,5,4,Minnesota Whitecaps,Meaghan Pezon,Goal,185,26,Wristshot,On Net,f,f,,,,0,0,0,1,0,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,3,5:37,4,5,5,5,Minnesota Whitecaps,Jonna Curtis,Faceoff Win,100,43,Forehand,,,,Emily Fluke,,,0,0,1,0,0,0,0,0,0,0,0
 6,2021-01-24,Toronto Six,Minnesota Whitecaps,3,5:36,4,5,5,5,Minnesota Whitecaps,Jonna Curtis,Puck Recovery,103,45,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -11270,7 +11270,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 7,2021-01-26,Toronto Six,Boston Pride,1,8:11,4,5,0,0,Boston Pride,Jillian Dempsey,Play,186,71,Direct,,,,Christina Putigna,194.0,48.0,0,0,0,0,0,0,1,0,0,0,0
 7,2021-01-26,Toronto Six,Boston Pride,1,8:07,4,5,0,0,Boston Pride,Christina Putigna,Play,184,75,Direct,,,,McKenna Brand,140.0,76.0,0,0,0,0,0,0,1,0,0,0,0
 7,2021-01-26,Toronto Six,Boston Pride,1,8:06,4,5,0,0,Boston Pride,McKenna Brand,Play,134,68,Direct,,,,Taylor Turnquist,143.0,5.0,0,0,0,0,0,0,1,0,0,0,0
-7,2021-01-26,Toronto Six,Boston Pride,1,8:04,4,5,0,0,Boston Pride,Taylor Turnquist,Play,164,14,Direct,,,,Christina Putigna,177.0,62.0,1,0,0,0,0,0,1,0,0,0,0
+7,2021-01-26,Toronto Six,Boston Pride,1,8:04,4,5,0,0,Boston Pride,Taylor Turnquist,Play,164,14,Direct,,,,Christina Putigna,177.0,62.0,1,0,0,0,0,1,1,0,0,0,0
 7,2021-01-26,Toronto Six,Boston Pride,1,8:03,4,5,0,0,Boston Pride,Christina Putigna,Goal,177,59,Wristshot,On Net,f,f,,,,0,0,0,1,0,0,0,0,0,0,0
 7,2021-01-26,Toronto Six,Boston Pride,1,8:01,5,5,0,1,Boston Pride,Lexie Laing,Faceoff Win,100,42,Backhand,,,,Shiann Darkangelo,,,0,0,1,0,0,0,0,0,0,0,0
 7,2021-01-26,Toronto Six,Boston Pride,1,7:57,5,5,0,1,Boston Pride,Kaleigh Fratkin,Puck Recovery,5,58,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -12178,7 +12178,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 7,2021-01-26,Toronto Six,Boston Pride,3,16:39,5,3,0,1,Toronto Six,Emma Woods,Play,147,17,Direct,,,,Lindsay Eastwood,136.0,54.0,0,0,0,0,0,0,1,0,0,0,0
 7,2021-01-26,Toronto Six,Boston Pride,3,16:37,5,3,0,1,Toronto Six,Lindsay Eastwood,Play,136,46,Indirect,,,,Brooke Boquist,161.0,75.0,0,0,0,0,0,0,1,0,0,0,0
 7,2021-01-26,Toronto Six,Boston Pride,3,16:32,5,4,0,1,Toronto Six,Brooke Boquist,Shot,158,47,Wristshot,Missed,t,f,,,,0,0,0,0,0,0,0,0,1,0,0
-7,2021-01-26,Toronto Six,Boston Pride,3,16:31,5,4,0,1,Toronto Six,Brooke Boquist,Puck Recovery,178,38,,,,,,,,1,0,0,0,0,0,0,1,0,0,0
+7,2021-01-26,Toronto Six,Boston Pride,3,16:31,5,4,0,1,Toronto Six,Brooke Boquist,Puck Recovery,178,38,,,,,,,,1,0,0,0,0,1,0,1,0,0,0
 7,2021-01-26,Toronto Six,Boston Pride,3,16:30,5,4,0,1,Toronto Six,Brooke Boquist,Goal,184,37,Snapshot,On Net,f,f,,,,0,0,0,1,0,0,0,0,0,0,0
 7,2021-01-26,Toronto Six,Boston Pride,3,16:29,5,5,1,1,Boston Pride,Jillian Dempsey,Faceoff Win,100,42,Backhand,,,,Breanne Wilson-Bennett,,,0,0,1,0,0,0,0,0,0,0,0
 7,2021-01-26,Toronto Six,Boston Pride,3,16:28,5,5,1,1,Boston Pride,Mallory Souliotis,Puck Recovery,73,34,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -14451,7 +14451,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 8,2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,0:18,3,5,0,0,Metropolitan Riveters,Cailey Hutchison,Takeaway,26,46,,,,,,,,0,0,0,0,0,0,0,0,0,1,0
 8,2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,0:15,3,5,0,0,Minnesota Whitecaps,Sydney Baldwin,Puck Recovery,142,41,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
 8,2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,0:13,3,5,0,0,Minnesota Whitecaps,Sydney Baldwin,Play,138,24,Direct,,,,Meghan Lorence,140.0,63.0,0,0,0,0,0,0,1,0,0,0,0
-8,2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,0:11,3,5,0,0,Minnesota Whitecaps,Meghan Lorence,Play,157,63,Direct,,,,Haley Mack,186.0,52.0,1,0,0,0,0,0,1,0,0,0,0
+8,2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,0:11,3,5,0,0,Minnesota Whitecaps,Meghan Lorence,Play,157,63,Direct,,,,Haley Mack,186.0,52.0,1,0,0,0,0,1,1,0,0,0,0
 8,2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,0:11,3,5,0,0,Minnesota Whitecaps,Haley Mack,Goal,184,50,Wristshot,On Net,f,f,,,,0,0,0,1,0,0,0,0,0,0,0
 8,2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,0:10,4,5,0,1,Metropolitan Riveters,Rebecca Morse,Penalty Taken,90,84,Unsportsmanlike conduct,,,,,,,0,0,0,0,0,1,0,0,0,0,0
 8,2021-01-26,Metropolitan Riveters,Minnesota Whitecaps,3,0:10,4,5,0,1,Metropolitan Riveters,Kelly Babstock,Faceoff Win,100,43,Forehand,,,,Stephanie Anderson,,,0,0,1,0,0,0,0,0,0,0,0
@@ -15073,7 +15073,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 9,2021-01-27,Connecticut Whale,Boston Pride,1,1:13,4,5,0,0,Boston Pride,McKenna Brand,Play,183,77,Direct,,,,Kaleigh Fratkin,131.0,76.0,0,0,0,0,0,0,1,0,0,0,0
 9,2021-01-27,Connecticut Whale,Boston Pride,1,1:10,4,5,0,0,Boston Pride,Kaleigh Fratkin,Play,134,62,Direct,,,,McKenna Brand,154.0,79.0,0,0,0,0,0,0,1,0,0,0,0
 9,2021-01-27,Connecticut Whale,Boston Pride,1,1:08,4,5,0,0,Boston Pride,McKenna Brand,Play,138,79,Direct,,,,Christina Putigna,178.0,72.0,0,0,0,0,0,0,1,0,0,0,0
-9,2021-01-27,Connecticut Whale,Boston Pride,1,1:06,4,5,0,0,Boston Pride,Christina Putigna,Play,158,80,Direct,,,,McKenna Brand,162.0,46.0,1,0,0,0,0,0,1,0,0,0,0
+9,2021-01-27,Connecticut Whale,Boston Pride,1,1:06,4,5,0,0,Boston Pride,Christina Putigna,Play,158,80,Direct,,,,McKenna Brand,162.0,46.0,1,0,0,0,0,1,1,0,0,0,0
 9,2021-01-27,Connecticut Whale,Boston Pride,1,1:05,4,5,0,0,Boston Pride,McKenna Brand,Goal,162,46,Deflection,On Net,t,t,,,,0,0,0,1,0,0,0,0,0,0,0
 9,2021-01-27,Connecticut Whale,Boston Pride,1,1:01,5,5,0,1,Boston Pride,Carlee Turner,Faceoff Win,100,42,Backhand,,,,Sarah Schwenzfeier,,,0,0,1,0,0,0,0,0,0,0,0
 9,2021-01-27,Connecticut Whale,Boston Pride,1,1:00,5,5,0,1,Boston Pride,Mary Parker,Puck Recovery,93,27,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -16084,7 +16084,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 9,2021-01-27,Connecticut Whale,Boston Pride,3,7:32,5,4,3,1,Connecticut Whale,Maggie LaGue,Play,151,5,Direct,,,,Alyssa Wohlfeiler,151.0,5.0,0,0,0,0,0,0,1,0,0,0,0
 9,2021-01-27,Connecticut Whale,Boston Pride,3,7:32,5,4,3,1,Connecticut Whale,Alyssa Wohlfeiler,Play,151,5,Direct,,,,Amanda Conway,185.0,18.0,0,0,0,0,0,0,1,0,0,0,0
 9,2021-01-27,Connecticut Whale,Boston Pride,3,7:28,5,4,3,1,Connecticut Whale,Amanda Conway,Play,182,9,Indirect,,,,Alyssa Wohlfeiler,182.0,9.0,0,0,0,0,0,0,1,0,0,0,0
-9,2021-01-27,Connecticut Whale,Boston Pride,3,7:26,5,4,3,1,Connecticut Whale,Alyssa Wohlfeiler,Play,191,31,Direct,,,,Emma Vlasic,176.0,40.0,1,0,0,0,0,0,1,0,0,0,0
+9,2021-01-27,Connecticut Whale,Boston Pride,3,7:26,5,4,3,1,Connecticut Whale,Alyssa Wohlfeiler,Play,191,31,Direct,,,,Emma Vlasic,176.0,40.0,1,0,0,0,0,1,1,0,0,0,0
 9,2021-01-27,Connecticut Whale,Boston Pride,3,7:25,5,4,3,1,Connecticut Whale,Emma Vlasic,Goal,177,40,Snapshot,On Net,f,t,,,,0,0,0,1,0,0,0,0,0,0,0
 9,2021-01-27,Connecticut Whale,Boston Pride,3,7:24,5,5,4,1,Boston Pride,Samantha Davis,Faceoff Win,100,42,Forehand,,,,Sarah Schwenzfeier,,,0,0,1,0,0,0,0,0,0,0,0
 9,2021-01-27,Connecticut Whale,Boston Pride,3,7:23,5,5,4,1,Boston Pride,Taylor Turnquist,Puck Recovery,75,78,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -18327,7 +18327,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 11,2021-01-30,Buffalo Beauts,Boston Pride,1,11:56,4,5,0,0,Boston Pride,Taylor Wenczkowski,Play,171,0,Direct,,,,Taylor Turnquist,128.0,5.0,0,0,0,0,0,0,1,0,0,0,0
 11,2021-01-30,Buffalo Beauts,Boston Pride,1,11:53,4,5,0,0,Boston Pride,Taylor Turnquist,Play,136,34,Direct,,,,Taylor Wenczkowski,145.0,15.0,0,0,0,0,0,0,1,0,0,0,0
 11,2021-01-30,Buffalo Beauts,Boston Pride,1,11:51,4,5,0,0,Boston Pride,Taylor Wenczkowski,Shot,149,28,Wristshot,Blocked,t,f,,,,0,0,0,0,0,0,0,0,1,0,0
-11,2021-01-30,Buffalo Beauts,Boston Pride,1,11:50,4,5,0,0,Boston Pride,Lauren Kelly,Puck Recovery,171,60,,,,,,,,1,0,0,0,0,0,0,1,0,0,0
+11,2021-01-30,Buffalo Beauts,Boston Pride,1,11:50,4,5,0,0,Boston Pride,Lauren Kelly,Puck Recovery,171,60,,,,,,,,1,0,0,0,0,1,0,1,0,0,0
 11,2021-01-30,Buffalo Beauts,Boston Pride,1,11:50,4,5,0,0,Boston Pride,Lauren Kelly,Goal,171,60,Snapshot,On Net,f,f,,,,0,0,0,1,0,0,0,0,0,0,0
 11,2021-01-30,Buffalo Beauts,Boston Pride,1,11:49,5,5,0,1,Boston Pride,Jillian Dempsey,Faceoff Win,100,42,Backhand,,,,Jordan Juron,,,0,0,1,0,0,0,0,0,0,0,0
 11,2021-01-30,Buffalo Beauts,Boston Pride,1,11:48,5,5,0,1,Boston Pride,Kaleigh Fratkin,Puck Recovery,62,52,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -19728,7 +19728,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 11,2021-01-30,Buffalo Beauts,Boston Pride,3,3:57,5,4,1,1,Buffalo Beauts,Kristin Lewicki,Play,198,40,Indirect,,,,Jordan Juron,194.0,14.0,0,0,0,0,0,0,1,0,0,0,0
 11,2021-01-30,Buffalo Beauts,Boston Pride,3,3:52,5,4,1,1,Buffalo Beauts,Jordan Juron,Play,193,27,Direct,,,,Brooke Stacey,178.0,36.0,0,0,0,0,0,0,1,0,0,0,0
 11,2021-01-30,Buffalo Beauts,Boston Pride,3,3:52,5,4,1,1,Buffalo Beauts,Brooke Stacey,Shot,178,36,Fan,Missed,t,t,,,,0,0,0,0,0,0,0,0,1,0,0
-11,2021-01-30,Buffalo Beauts,Boston Pride,3,3:51,5,4,1,1,Buffalo Beauts,Lisa Chesson,Puck Recovery,168,45,,,,,,,,1,0,0,0,0,0,0,1,0,0,0
+11,2021-01-30,Buffalo Beauts,Boston Pride,3,3:51,5,4,1,1,Buffalo Beauts,Lisa Chesson,Puck Recovery,168,45,,,,,,,,1,0,0,0,0,1,0,1,0,0,0
 11,2021-01-30,Buffalo Beauts,Boston Pride,3,3:51,5,4,1,1,Buffalo Beauts,Lisa Chesson,Goal,171,45,Snapshot,On Net,t,f,,,,0,0,0,1,0,0,0,0,0,0,0
 11,2021-01-30,Buffalo Beauts,Boston Pride,3,3:50,5,5,2,1,Boston Pride,Carlee Turner,Faceoff Win,100,42,Backhand,,,,Cassidy MacPherson,,,0,0,1,0,0,0,0,0,0,0,0
 11,2021-01-30,Buffalo Beauts,Boston Pride,3,3:49,5,5,2,1,Boston Pride,Tereza Vanisova,Puck Recovery,88,41,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -20066,7 +20066,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,1,13:05,5,4,0,0,Minnesota Whitecaps,Emma Stauber,Puck Recovery,19,41,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,1,13:04,5,4,0,0,Minnesota Whitecaps,Emma Stauber,Dump In/Out,19,41,Lost,,,,,,,0,1,0,0,0,0,0,0,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,1,13:02,5,4,0,0,Toronto Six,Lindsay Eastwood,Puck Recovery,150,22,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
-12,2021-01-30,Toronto Six,Minnesota Whitecaps,1,13:01,5,4,0,0,Toronto Six,Lindsay Eastwood,Play,151,24,Direct,,,,Mikyla Grant-Mentis,180.0,65.0,1,0,0,0,0,0,1,0,0,0,0
+12,2021-01-30,Toronto Six,Minnesota Whitecaps,1,13:01,5,4,0,0,Toronto Six,Lindsay Eastwood,Play,151,24,Direct,,,,Mikyla Grant-Mentis,180.0,65.0,1,0,0,0,0,1,1,0,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,1,13:00,5,4,0,0,Toronto Six,Mikyla Grant-Mentis,Goal,183,65,Wristshot,On Net,f,f,,,,0,0,0,1,0,0,0,0,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,1,12:58,5,5,1,0,Minnesota Whitecaps,Meaghan Pezon,Faceoff Win,100,42,Backhand,,,,Natalie Marcuzzi,,,0,0,1,0,0,0,0,0,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,1,12:57,5,5,1,0,Minnesota Whitecaps,Allie Thunstrom,Puck Recovery,100,57,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -20496,7 +20496,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,2,18:43,4,5,1,0,Minnesota Whitecaps,Meghan Lorence,Play,175,83,Direct,,,,Haley Mack,194.0,66.0,0,0,0,0,0,0,1,0,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,2,18:41,4,5,1,0,Minnesota Whitecaps,Haley Mack,Play,190,72,Direct,,,,Meghan Lorence,171.0,82.0,0,0,0,0,0,0,1,0,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,2,18:39,4,5,1,0,Minnesota Whitecaps,Meghan Lorence,Play,171,74,Direct,,,,Haley Mack,191.0,67.0,0,0,0,0,0,0,1,0,0,0,0
-12,2021-01-30,Toronto Six,Minnesota Whitecaps,2,18:38,4,5,1,0,Minnesota Whitecaps,Haley Mack,Play,188,64,Direct,,,,Nina Rodgers,186.0,35.0,1,0,0,0,0,0,1,0,0,0,0
+12,2021-01-30,Toronto Six,Minnesota Whitecaps,2,18:38,4,5,1,0,Minnesota Whitecaps,Haley Mack,Play,188,64,Direct,,,,Nina Rodgers,186.0,35.0,1,0,0,0,0,1,1,0,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,2,18:38,4,5,1,0,Minnesota Whitecaps,Nina Rodgers,Goal,186,35,Snapshot,On Net,f,t,,,,0,0,0,1,0,0,0,0,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,2,18:37,5,5,1,1,Toronto Six,Shiann Darkangelo,Faceoff Win,100,42,Forehand,,,,Jonna Curtis,,,0,0,1,0,0,0,0,0,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,2,18:36,5,5,1,1,Toronto Six,Taytum Clairmont,Puck Recovery,93,55,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -21374,7 +21374,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,3,8:07,4,5,3,2,Minnesota Whitecaps,Haley Mack,Play,196,61,Direct,,,,Meghan Lorence,173.0,73.0,0,0,0,0,0,0,1,0,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,3,8:06,4,5,3,2,Minnesota Whitecaps,Meghan Lorence,Play,173,67,Direct,,,,Stephanie Anderson,179.0,44.0,0,0,0,0,0,0,1,0,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,3,8:05,4,5,3,2,Minnesota Whitecaps,Stephanie Anderson,Shot,179,44,Snapshot,On Net,f,t,,,,0,0,0,0,0,0,0,0,1,0,0
-12,2021-01-30,Toronto Six,Minnesota Whitecaps,3,8:03,4,5,3,2,Minnesota Whitecaps,Nina Rodgers,Puck Recovery,175,25,,,,,,,,1,0,0,0,0,0,0,1,0,0,0
+12,2021-01-30,Toronto Six,Minnesota Whitecaps,3,8:03,4,5,3,2,Minnesota Whitecaps,Nina Rodgers,Puck Recovery,175,25,,,,,,,,1,0,0,0,0,1,0,1,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,3,8:03,4,5,3,2,Minnesota Whitecaps,Nina Rodgers,Goal,175,25,Snapshot,On Net,f,f,,,,0,0,0,1,0,0,0,0,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,3,8:01,5,5,3,3,Toronto Six,Shiann Darkangelo,Faceoff Win,100,43,Backhand,,,,Stephanie Anderson,,,0,0,1,0,0,0,0,0,0,0,0
 12,2021-01-30,Toronto Six,Minnesota Whitecaps,3,7:59,5,5,3,3,Toronto Six,Mikyla Grant-Mentis,Puck Recovery,91,43,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -22956,7 +22956,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 13,2021-01-31,Boston Pride,Buffalo Beauts,3,14:40,5,4,4,0,Boston Pride,Taylor Turnquist,Shot,163,57,Snapshot,Missed,t,f,,,,0,0,0,0,0,0,0,0,1,0,0
 13,2021-01-31,Boston Pride,Buffalo Beauts,3,14:36,5,4,4,0,Boston Pride,Lauren Kelly,Puck Recovery,134,0,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
 13,2021-01-31,Boston Pride,Buffalo Beauts,3,14:35,5,4,4,0,Boston Pride,Lauren Kelly,Play,131,12,Direct,,,,Jillian Dempsey,171.0,7.0,0,0,0,0,0,0,1,0,0,0,0
-13,2021-01-31,Boston Pride,Buffalo Beauts,3,14:33,5,4,4,0,Boston Pride,Jillian Dempsey,Play,162,8,Direct,,,,Lauren Kelly,129.0,19.0,1,0,0,0,0,0,1,0,0,0,0
+13,2021-01-31,Boston Pride,Buffalo Beauts,3,14:33,5,4,4,0,Boston Pride,Jillian Dempsey,Play,162,8,Direct,,,,Lauren Kelly,129.0,19.0,1,0,0,0,0,1,1,0,0,0,0
 13,2021-01-31,Boston Pride,Buffalo Beauts,3,14:32,5,4,4,0,Boston Pride,Lauren Kelly,Goal,130,33,Slapshot,On Net,t,f,,,,0,0,0,1,0,0,0,0,0,0,0
 13,2021-01-31,Boston Pride,Buffalo Beauts,3,14:30,5,5,5,0,Boston Pride,Lexie Laing,Faceoff Win,100,42,Backhand,,,,Jordan Juron,,,0,0,1,0,0,0,0,0,0,0,0
 13,2021-01-31,Boston Pride,Buffalo Beauts,3,14:29,5,5,5,0,Boston Pride,Kaleigh Fratkin,Puck Recovery,83,65,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -24405,7 +24405,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 14,2021-01-31,Toronto Six,Connecticut Whale,2,4:51,5,4,1,0,Toronto Six,Shiann Darkangelo,Play,165,72,Direct,,,,Mikyla Grant-Mentis,193.0,67.0,0,0,0,0,0,0,1,0,0,0,0
 14,2021-01-31,Toronto Six,Connecticut Whale,2,4:48,5,4,1,0,Toronto Six,Mikyla Grant-Mentis,Play,175,79,Direct,,,,Taylor Woods,129.0,54.0,0,0,0,0,0,0,1,0,0,0,0
 14,2021-01-31,Toronto Six,Connecticut Whale,2,4:47,5,4,1,0,Toronto Six,Taylor Woods,Play,129,54,Direct,,,,Mikyla Grant-Mentis,150.0,70.0,0,0,0,0,0,0,1,0,0,0,0
-14,2021-01-31,Toronto Six,Connecticut Whale,2,4:44,5,4,1,0,Toronto Six,Mikyla Grant-Mentis,Play,135,67,Direct,,,,Taylor Woods,131.0,36.0,1,0,0,0,0,0,1,0,0,0,0
+14,2021-01-31,Toronto Six,Connecticut Whale,2,4:44,5,4,1,0,Toronto Six,Mikyla Grant-Mentis,Play,135,67,Direct,,,,Taylor Woods,131.0,36.0,1,0,0,0,0,1,1,0,0,0,0
 14,2021-01-31,Toronto Six,Connecticut Whale,2,4:43,5,4,1,0,Toronto Six,Taylor Woods,Goal,139,36,Wristshot,On Net,t,f,,,,0,0,0,1,0,0,0,0,0,0,0
 14,2021-01-31,Toronto Six,Connecticut Whale,2,4:41,5,5,2,0,Connecticut Whale,Emma Vlasic,Faceoff Win,100,43,Backhand,,,,Breanne Wilson-Bennett,,,0,0,1,0,0,0,0,0,0,0,0
 14,2021-01-31,Toronto Six,Connecticut Whale,2,4:40,5,5,2,0,Connecticut Whale,Elena Orlando,Puck Recovery,74,39,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -25515,7 +25515,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 15,2021-02-01,Buffalo Beauts,Boston Pride,1,8:01,3,5,0,1,Boston Pride,Kaleigh Fratkin,Play,149,28,Direct,,,,Lexie Laing,185.0,26.0,0,0,0,0,0,0,1,0,0,0,0
 15,2021-02-01,Buffalo Beauts,Boston Pride,1,8:00,3,5,0,1,Boston Pride,Lexie Laing,Incomplete Play,185,26,Direct,,,,Jillian Dempsey,185.0,48.0,0,0,0,0,1,0,0,0,0,0,0
 15,2021-02-01,Buffalo Beauts,Boston Pride,1,7:58,3,5,0,1,Boston Pride,McKenna Brand,Puck Recovery,164,68,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
-15,2021-02-01,Buffalo Beauts,Boston Pride,1,7:54,3,5,0,1,Boston Pride,McKenna Brand,Play,143,52,Direct,,,,Jillian Dempsey,180.0,61.0,1,0,0,0,0,0,1,0,0,0,0
+15,2021-02-01,Buffalo Beauts,Boston Pride,1,7:54,3,5,0,1,Boston Pride,McKenna Brand,Play,143,52,Direct,,,,Jillian Dempsey,180.0,61.0,1,0,0,0,0,1,1,0,0,0,0
 15,2021-02-01,Buffalo Beauts,Boston Pride,1,7:53,3,5,0,1,Boston Pride,Jillian Dempsey,Goal,180,61,Wristshot,On Net,f,f,,,,0,0,0,1,0,0,0,0,0,0,0
 15,2021-02-01,Buffalo Beauts,Boston Pride,1,7:48,4,5,0,2,Boston Pride,Taylor Wenczkowski,Faceoff Win,100,42,Backhand,,,,Brittany Colton,,,0,0,1,0,0,0,0,0,0,0,0
 15,2021-02-01,Buffalo Beauts,Boston Pride,1,7:46,4,5,0,2,Boston Pride,Lauren Kelly,Puck Recovery,68,14,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
@@ -26609,7 +26609,7 @@ game_id,game_date,Home Team,Away Team,Period,Clock,Home Team Skaters,Away Team S
 15,2021-02-01,Buffalo Beauts,Boston Pride,3,10:20,4,5,1,5,Boston Pride,Jillian Dempsey,Puck Recovery,184,6,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
 15,2021-02-01,Buffalo Beauts,Boston Pride,3,10:19,4,5,1,5,Boston Pride,Jillian Dempsey,Play,166,3,Direct,,,,Mallory Souliotis,128.0,4.0,0,0,0,0,0,0,1,0,0,0,0
 15,2021-02-01,Buffalo Beauts,Boston Pride,3,10:16,4,5,1,5,Boston Pride,Mallory Souliotis,Play,127,25,Direct,,,,Jillian Dempsey,130.0,15.0,0,0,0,0,0,0,1,0,0,0,0
-15,2021-02-01,Buffalo Beauts,Boston Pride,3,10:14,4,5,1,5,Boston Pride,Jillian Dempsey,Play,157,14,Direct,,,,Mallory Souliotis,131.0,24.0,1,0,0,0,0,0,1,0,0,0,0
+15,2021-02-01,Buffalo Beauts,Boston Pride,3,10:14,4,5,1,5,Boston Pride,Jillian Dempsey,Play,157,14,Direct,,,,Mallory Souliotis,131.0,24.0,1,0,0,0,0,1,1,0,0,0,0
 15,2021-02-01,Buffalo Beauts,Boston Pride,3,10:12,4,5,1,5,Boston Pride,Mallory Souliotis,Goal,145,37,Wristshot,On Net,t,f,,,,0,0,0,1,0,0,0,0,0,0,0
 15,2021-02-01,Buffalo Beauts,Boston Pride,3,10:10,5,5,1,6,Boston Pride,Taylor Wenczkowski,Faceoff Win,100,42,Backhand,,,,Jordan Juron,,,0,0,1,0,0,0,0,0,0,0,0
 15,2021-02-01,Buffalo Beauts,Boston Pride,3,10:08,5,5,1,6,Boston Pride,Carlee Turner,Puck Recovery,104,55,,,,,,,,0,0,0,0,0,0,0,1,0,0,0
